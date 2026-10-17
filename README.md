@@ -1,2 +1,2 @@
-# tripbox-updates.
+# tripbox-updates
 Actualizaciones oficiales de Tripbox para Android.
